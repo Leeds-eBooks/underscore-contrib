@@ -1,5 +1,4 @@
-underscore-contrib
-==================
+underscore-contrib but with an up-to-date underscore dependency
 
 The brass buckles on Underscore's utility belt -- a contributors' library for [Underscore](http://underscorejs.org/).
 
