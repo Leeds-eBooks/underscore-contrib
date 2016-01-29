@@ -1,5 +1,5 @@
 {
-  "name": "underscore-contrib",
+  "name": "underscore-contrib-up-to-date",
   "version": "0.3.0",
   "main": "index.js",
   "dependencies": {
@@ -18,16 +18,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/documentcloud/underscore-contrib.git"
+    "url": "https://github.com/Leeds-eBooks/underscore-contrib.git"
   },
   "license": "MIT",
   "author": {
-    "name": "Fogus",
-    "email": "me@fogus.me",
-    "url": "http://www.fogus.me"
+    "name": "Ben Styles",
+    "email": "enquiries@leeds-ebooks.co.uk"
   },
   "scripts": {
     "test": "node ./node_modules/grunt-cli/bin/grunt test"
   },
-  "homepage": "https://github.com/documentcloud/underscore-contrib"
+  "homepage": "https://github.com/Leeds-eBooks/underscore-contrib"
 }
